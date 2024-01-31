@@ -9,7 +9,7 @@
         ███  ██   █▀      ██      ██         ██      █▀      ██   ██        ██      ██               
          █████  ▄███▄   ▄████▄  ▄████▄     ▄████▄  ▄███▄   ▄████▄████▄    ▄████▄  ▄████▄▄            
                                                                                                      
-        @jaytaph | github.com/jaytaph | adayinthelifeof.nl | bitmaelum.com | noxlogic.nl
+          @jaytaph | github.com/jaytaph | adayinthelifeof.nl | gosub.io | noxlogic.nl
 ```
 
 ![JayTaph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaytaph&count_private=true&show_icons=true&theme=nord&custom_title=JayTaph%27s%20GitHub%20Stats)
